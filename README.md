@@ -1,4 +1,4 @@
-# salt19-com
+# SALT19
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-salt19-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://salt19.com/
+SALT19 is an independent applied AI systems lab focused on governed, verifiable execution for autonomous systems, UAS, and geospatial cognition. It builds the EvoMind cognitive architecture, Agent Utility Grid for machine-native agents, AeroClear products, and the ARCS research community, emphasizing local‑first design, human‑gated control, and evidence‑bearing AI actions.
+
+**Areas:** AI · AutonomousSystems · Governance · Verification · Research
+
+## SALT19 on APIs.io
+
+Everything profiled for SALT19 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/salt19-com/](https://apis.io/providers/salt19-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [SALT19 Agent API](https://apis.io/apis/salt19-com/salt19-com-agent-api/) — The agent API from SALT19 — 1 operation(s) for agent.
+- [SALT19 AI API](https://apis.io/apis/salt19-com/salt19-com-ai-api/) — The ai API from SALT19 — 1 operation(s) for ai.
+- [SALT19 Developer Tools API](https://apis.io/apis/salt19-com/salt19-com-developer-tools-api/) — The developer-tools API from SALT19 — 3 operation(s) for developer-tools.
+- [SALT19 Discovery API](https://apis.io/apis/salt19-com/salt19-com-discovery-api/) — The discovery API from SALT19 — 2 operation(s) for discovery.
+- [SALT19 Fresh State API](https://apis.io/apis/salt19-com/salt19-com-fresh-state-api/) — The fresh-state API from SALT19 — 12 operation(s) for fresh-state.
+- [SALT19 GitHub API](https://apis.io/apis/salt19-com/salt19-com-github-api/) — The github API from SALT19 — 2 operation(s) for github.
+- [SALT19 HTTP API](https://apis.io/apis/salt19-com/salt19-com-http-api/) — The http API from SALT19 — 1 operation(s) for http.
+- [SALT19 Npm API](https://apis.io/apis/salt19-com/salt19-com-npm-api/) — The npm API from SALT19 — 3 operation(s) for npm.
+- [SALT19 Proof402 API](https://apis.io/apis/salt19-com/salt19-com-proof402-api/) — The proof402 API from SALT19 — 3 operation(s) for proof402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SALT19 Agentic Access](https://apis.io/agentic-access/salt19-com/salt19-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SALT19 API Rules](https://apis.io/rules/salt19-com/salt19-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SALT19 Domain Security](https://apis.io/security/salt19-com/salt19-com-domain-security/)
+- [SALT19 Trust Center](https://apis.io/security/salt19-com/salt19-com-trust-center/)
+- [SALT19 Vulnerability Disclosure](https://apis.io/security/salt19-com/salt19-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SALT19 Plans Pricing](https://apis.io/plans/salt19-com/salt19-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://salt19.com/)
+- [Pricing](https://salt19.com/aeroclear/legal/plans)
+- [Support](https://salt19.com/aeroclear/legal/support)
+- [Security](https://github.com/GabrielAllit1/salt19/security/policy)
+- [Terms of service](https://salt19.com/aeroclear/legal/terms)
+- [Privacy policy](https://salt19.com/aeroclear/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.8** — developing · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 46.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.2 |
+| Access clarity | 39.5 |
+
+**Agent readiness 47.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/salt19-com/](https://apis.io/providers/salt19-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SALT19: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/salt19-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
